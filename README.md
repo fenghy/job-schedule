@@ -11,3 +11,7 @@
 job-schedule<br/>
   &nbsp;&nbsp;schedule-core 任务注册、调度和处理模块<br/>
   &nbsp;&nbsp;shcedule-console 后台管理模块，主要包含jsp页面，用于管理任务、zookeeper配置，执行状态查看<br/>
+  
+# Notes：
+如涉及侵权，请及时联系,谢谢!<br/>
+xiankuanfeng@163.com
