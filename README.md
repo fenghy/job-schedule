@@ -3,7 +3,7 @@
 
 根据自身业务场景做了部分修改，核心源码没有修改，tbschedule源码和使用方式见： http://code.taobao.org/p/tbschedule/wiki/index/
 
-改动1：将项目改成原项目拆分成核心模块(schedule-core)和后台任务管理模块shcedule-console，方便使用maven打包。<br/>
+改动1：将原项目拆分成核心模块(schedule-core)和后台任务管理模块shcedule-console，方便使用maven打包。<br/>
 改动2：新增任务执行失败时回调函数，这样可以在业务代码中处理异常<br/>
 改动3：将gbk编码改成utf-8编码<br/>
 
